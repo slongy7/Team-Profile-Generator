@@ -1,5 +1,4 @@
-# Team-Profile-Generator
-
+# Team Profile Generator
 
 ## Description
 This app is designed for a team being created using Node.js, and showing that information on a new html file along with .css.
@@ -15,3 +14,4 @@ This is under the MIT license.
 
 ## Questions
 If you have any questions, feel free to email me at justin.m.long@gmail.com.
+
